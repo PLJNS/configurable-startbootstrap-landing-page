@@ -1,0 +1,21 @@
+{
+  "name": "configurable-startbootstrap-landing-page",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": {
+      "version": "3.3.5",
+      "from": "bootstrap@>=3.3.5 <4.0.0",
+      "resolved": "https://registry.npmjs.org/bootstrap/-/bootstrap-3.3.5.tgz"
+    },
+    "font-awesome": {
+      "version": "4.4.0",
+      "from": "font-awesome@*",
+      "resolved": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.4.0.tgz"
+    },
+    "jquery": {
+      "version": "2.1.4",
+      "from": "jquery@*",
+      "resolved": "https://registry.npmjs.org/jquery/-/jquery-2.1.4.tgz"
+    }
+  }
+}
